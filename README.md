@@ -1,251 +1,183 @@
-# Hi, I'm Taha Souhail Haddaoui 👋
+# 👋 Hey, I'm Taha Souhail Haddaoui
 
-## Automation & Reliability Engineer | Industrial Systems | AI & Industry 4.0
+### ⚙️ Automation Engineer | 🤖 AI Explorer | 🧠 Human-Centered Technology Enthusiast
 
-📍 Oran, Algeria  
-🎓 Master's Degree in Automatic Control & Industrial Systems — USTO  
-💼 Industrial experience in automation, maintenance, and reliability engineering  
-🌍 English: Operational level (Technical Documentation)  
-🔗 LinkedIn: https://www.linkedin.com/in/taha-haddaoui-672743293/
+> "Sometimes science is more about asking the right questions than having all the answers."
+> — Probably Rick Sanchez (after ignoring 47 safety protocols)
 
 ---
 
-# 👨‍💻 About Me
+## 🧬 Who am I?
 
-I am an Automation and Reliability Engineer specialized in industrial systems, control, and equipment reliability.
+I'm an Automation & Reliability Engineer interested in the strange intersection between:
 
-My professional experience comes from a demanding industrial environment where I worked on:
-- Industrial equipment troubleshooting
-- Preventive and corrective maintenance
-- Automation systems
-- Reliability improvement
-- Root Cause Analysis (RCA)
+⚙️ Machines  
+🤖 Artificial Intelligence  
+🧠 Human behavior  
+🌍 Industry 4.0  
+🚀 The future of human-machine interaction  
 
-My background is mainly industrial, but I am actively developing skills in:
-- Artificial Intelligence
-- Machine Learning
-- Data Engineering
-- Industrial digitalization
+My background is industrial automation, but my curiosity goes beyond factories.
 
-My objective is to combine:
+I like understanding how systems work:
 
-**Industrial Expertise + Automation + Data + AI**
+- How machines make decisions ⚙️
+- How humans interact with technology 🧠
+- How AI can augment human abilities 🤖
+- How automation can improve real-world problems 🌍
 
-to build smarter and more reliable industrial solutions.
+Basically:
 
----
+**I teach machines to understand systems... while trying to understand humans myself.**
 
-# 🏭 Professional Background
-
-## Automation & Maintenance Engineer
-### Tosyali Algeria — Oran
-
-Experience in heavy industrial production environments:
-
-- Troubleshooting industrial equipment
-- Supporting maintenance activities
-- Diagnosing recurring failures
-- Performing Root Cause Analysis (RCA)
-- Improving equipment availability
-- Working with industrial automation systems
-
-Industrial exposure:
-- DRI production systems
-- EAF
-- LF
-- Industrial safety procedures (LOTO)
+(Still waiting for my portal gun. 🔫🌀)
 
 ---
 
-# ⚙️ Technical Skills
+# 🏭 Engineering Background
 
-## Industrial Automation
+My foundation comes from industrial automation and reliability engineering.
 
-- Siemens PLC:
-  - S7-1200
-  - S7-1500
-  - S7-300
+I have experience with:
 
-- TIA Portal
-- STEP 7
-- PLC troubleshooting
-- Industrial control systems
-- PID regulation
-- Variable Frequency Drives (VFD)
+🔧 Industrial troubleshooting  
+⚙️ Automation systems  
+📊 Equipment reliability  
+🛠️ Maintenance optimization  
+🔍 Root Cause Analysis  
+📈 Continuous improvement  
 
-
-## SCADA & Industrial Communication
-
-- WinCC
-- HMI systems
-- Alarm management
-
-Industrial Networks:
-- PROFINET
-- PROFIBUS
-- Modbus
-- Industrial Ethernet
+Industrial technologies:
 
 
-## Reliability Engineering
+Siemens PLC
+├── S7-1200
+├── S7-1500
+└── S7-300
 
-- Preventive Maintenance
-- Corrective Maintenance
-- Predictive Maintenance concepts
-- Root Cause Analysis (RCA)
-- Ishikawa analysis
-- MTBF / MTTR improvement
-- TPM methodology
-- Failure diagnosis
+Automation
+├── TIA Portal
+├── STEP 7
+├── WinCC
+└── Industrial Networks
 
 
-## Programming & Digital Skills
+---
 
-Currently developing:
+# 🤖 My AI Journey
 
-- Python
-- Machine Learning
-- Data Analysis
+Currently exploring:
+
+🧠 Machine Learning  
+👁️ Computer Vision  
+📊 Data Analysis  
+🤖 Intelligent Agents  
+🔗 Human-AI Interaction  
+
+My philosophy:
+
+> AI should not only replace repetitive tasks.
+>
+> It should help humans think better, learn faster, and create more.
+
+Because creating another calculator with a fancy name is not exactly the future. 😅
+
+---
+
+# ⚡ Zeus Project 🌀
+
+## A personal exploration of Human + AI integration
+
+**Zeus** is a long-term concept/project exploring:
+
+⚡ Artificial Intelligence  
+🧠 Human behavior understanding  
+👤 Personal assistance  
+🌐 Intelligent environments  
+⚙️ Automation  
+
+The idea:
+
+What happens when AI moves from being just a tool...
+
+to becoming a system that understands context, preferences, and human needs?
+
+Not trying to build Skynet. 🤖
+
+(At least that's what I would say if I was an AI pretending not to be Skynet.)
+
+---
+
+# 🧪 Current Experiments
+
+## 🤖 Artificial Intelligence
+
+Working on:
+
+- Machine Learning fundamentals
+- AI models
+- Data-driven systems
+- Human-centered AI concepts
+
+
+## ⚙️ Automation
+
+Building knowledge around:
+
+- PLC systems
+- Industrial control
+- Smart manufacturing
+- Industry 4.0
+
+
+## 💻 Software Engineering
+
+Learning:
+
+- Python 🐍
 - Git & GitHub
-- Linux fundamentals
-- SQL fundamentals
-- Docker basics
-- MLOps concepts
+- Linux 🐧
+- APIs
+- Docker 🐳
+- MLOps
 
 ---
 
-# 🤖 AI & Industry 4.0 Journey
+# 🛠️ Tech Stack
 
-I am currently exploring how Artificial Intelligence can improve industrial systems.
+## Languages
 
-Areas of interest:
+🐍 Python  
+💻 C/C++ (learning)  
+📊 SQL (learning)
 
-- Predictive Maintenance using Machine Learning
-- Industrial anomaly detection
-- Computer Vision for quality control
-- Data-driven optimization
-- AI-assisted decision systems
 
-The goal is not only to build AI models, but to apply AI to real industrial problems.
+## AI / Data
 
----
+🤖 Machine Learning  
+📈 Data Analysis  
+👁️ Computer Vision  
 
-# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## Industrial
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+⚙️ Siemens Automation  
+🏭 SCADA  
+🔌 Industrial Networks  
+🛠️ Control Systems
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
----
+## Development Tools
 
-# 🛠️ Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Siemens](https://img.shields.io/badge/Siemens-Industrial%20Automation-009999?style=for-the-badge)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-blue?style=for-the-badge)
+🐙 Git/GitHub  
+🐧 Linux  
+🐳 Docker  
 
 ---
 
 # 📂 Projects
 
-## ⚙️ Industrial Automation Projects
+## 🌀 Zeus
+Human-AI interaction and intelligent assistant concepts.
 
-Projects related to:
-- PLC programming
-- Industrial control
-- Automation systems
-- Process optimization
-
-
-## 🤖 Artificial Intelligence Projects
-
-Projects in development:
-
-- Machine Learning models
-- Predictive maintenance applications
-- Industrial AI solutions
-
-
-## 💻 Programming Projects
-
-- Python engineering tools
-- Data analysis projects
-- Automation scripts
-
----
-
-# 📚 Currently Learning
-
-## Artificial Intelligence
-
-- Machine Learning fundamentals
-- Deep Learning
-- Computer Vision
-- Model evaluation
-
-
-## Software Engineering
-
-- Clean code
-- Git workflows
-- APIs
-- Backend fundamentals
-
-
-## MLOps
-
-- Docker
-- MLflow
-- Model deployment
-- Cloud fundamentals
-
----
-
-# 🌍 Languages
-
-🇩🇿 Arabic  
-Native
-
-🇫🇷 French  
-Professional technical level
-
-🇬🇧 English  
-Operational level  
-(Technical documentation and engineering resources)
-
----
-
-# 🎯 Career Objective
-
-Looking for opportunities in:
-
-- Automation Engineering
-- Reliability Engineering
-- Industrial Digitalization
-- AI applied to industrial systems
-
-Interested in projects involving:
-
-**Automation + Data + Artificial Intelligence + Industry 4.0**
-
----
-
-# 📫 Contact
-
-Email:
-taha.hdsouhail@gmail.com
-
-LinkedIn:
-https://www.linkedin.com/in/taha-haddaoui-672743293/
-
----
-
-⭐ Building the bridge between industrial engineering and artificial intelligence.
+Status:
